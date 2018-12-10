@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Stock_Lab9_CIS3515</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="Search_for_stock">Search for stock...</string>
+
+    <string name="add_a_stock">No Stocks Added, Please add a Stock</string>
+
+</resources>
